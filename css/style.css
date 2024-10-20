@@ -1,8 +1,16 @@
 .img1{
-	height: 40%;
+	height: 50%;
 	width: 100%;
 }
 div {
 	margin-bottom: 50px
 
+}
+
+body{
+	background-color: lightpink;
+}
+
+.img2{
+	width: 500px
 }
